@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moneyChange-React/static/css/main.bd7071b4.css",
+    "main.js": "/moneyChange-React/static/js/main.7519b999.js",
+    "index.html": "/moneyChange-React/index.html",
+    "main.bd7071b4.css.map": "/moneyChange-React/static/css/main.bd7071b4.css.map",
+    "main.7519b999.js.map": "/moneyChange-React/static/js/main.7519b999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7071b4.css",
+    "static/js/main.7519b999.js"
+  ]
+}
